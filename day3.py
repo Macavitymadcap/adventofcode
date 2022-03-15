@@ -1,4 +1,3 @@
-from copy import deepcopy
 # Part 1
 
 def get_power():
